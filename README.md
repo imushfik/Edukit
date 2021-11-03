@@ -28,4 +28,4 @@ It's a web based application to provide all the required  educational assistance
 - React JS
 - Flask
 - Node JS
-- MySQL# Edukit
+- MySQL
