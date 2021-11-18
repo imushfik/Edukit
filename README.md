@@ -12,14 +12,15 @@ It's a web based application to provide all the required  educational assistance
 
 ## Features
 
-- Authentication
-- Student can add different courses
+- Create Student Account
+- Complete profile ,Add academic courses
 - Create objectives to fulfill the goal
-- CGPA analyzing
-- Course outcome on each lecture and after completion
-- Sprint Backlog
-- Target Skills in short and long time
-- Skill health check
+- CGPA analyzing(See progress of CGPA and Make retake planning)
+- Each course overview
+- Check each day (Sprint Backlog)
+- Check Resources
+- See progress in a graph
+- Set Preference
 - Assignments and Exam Reminder
 
 
