@@ -30,4 +30,3 @@ It's a web based application to provide all the required  educational assistance
 - Flask
 - Node JS
 - MySQL
-![Edukit_Use case diagram](https://user-images.githubusercontent.com/50800644/144420664-39a24cbe-0334-4af5-88d7-c3d11b5862cf.png
