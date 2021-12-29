@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar-brand {
+  height: 25%;
+  width: 25%;
+}
+.divide {
+  width: 5px;
+  height: auto;
+  display: inline-block;
+}
+/* Home */
+.home-image{
+  margin-top: 70px;
+}
+.title {
+  color:#757575 ;
+  font-family: Century Gothic;
+  font-weight: 700;
+}
+.btn-join {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 0px;
+  transition: 0.4s;
+  color: #0254E4;
+  border: 1px solid #0254E4;
+  text-decoration: none;
+}
+.btn-join:hover {
+  background: #0254E4;
+  color: #ffffff;
+}
+/* Footer */
+.fixed-footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #757575;
+  color: #ffffff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+/* Register */
+.reg-image {
+  margin-top: 50px;
+  width: 80%;
+  flex: auto;
+}
