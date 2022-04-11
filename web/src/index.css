@@ -63,3 +63,48 @@ code {
   width: 80%;
   flex: auto;
 }
+.card-courses{
+  background: #FFFBFB;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+/*Profile*/
+.profile-picture {
+  width: 100px;
+}
+.pro-crs-nm{
+  font-weight: regular;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.btn-add-crs{
+  float: right;
+}
+.card-courses{
+  text-align: left;
+  align-items: center;
+  justify-items: auto;
+
+}
+.button-secondary {
+  text-decoration: none;
+  color: black;
+  margin: 30px;
+}
+
+.about-image {
+  float: right;
+  margin-right: 40px;
+  top: 20px;
+}
+.cgpa-card{
+  float: left;
+}
+.cgpa-add-crs{
+  float: left;
+  
+}
+.current-cgpa{
+  float: left;
+  margin-top: 20px;
+}

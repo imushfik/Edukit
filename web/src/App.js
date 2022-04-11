@@ -9,6 +9,8 @@ import Reminder from './routes/Reminder';
 import Resources from './routes/Resources';
 import Services from './routes/Services';
 import About from './routes/About';
+import Courses from './routes/Courses';
+import Profile from './routes/Profile';
 
 function App() {
   return (
@@ -21,8 +23,11 @@ function App() {
         <Route path="/goals" element={<Goals />} />
         <Route path="/reminder" element={<Reminder />} />
         <Route path="/resources" element={<Resources />} />
+        <Route path="/courses" element={<Courses />} />
         <Route path="/services" element={<Services />} />
         <Route path="/about" element={<About />} />
+        <Route path="/profile" element={<Profile />} />
+
       </Routes>
     </div>
   );
